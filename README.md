@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Aishwarya Gaikwad 👋
 
-<!--
-**aish3112/aish3112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BCS Student | Aspiring IT Professional 💻
 
-Here are some ideas to get you started:
+🎓 Computer Science Student
+🐍 Learning Python & SQL
+📊 Exploring Excel & Power BI
+☕ Learning Core Java
+🌐 Interested in Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Currently
+
+* Building technical skills
+* Working on projects
+* Preparing for an IT career
+
+### 🎯 Goal
+
+**Learn • Build • Grow • Succeed**
+
+Thanks for visiting my profile! ⭐
